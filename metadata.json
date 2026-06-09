@@ -1,0 +1,6 @@
+{
+  "name": "Thesis Graph Playground",
+  "description": "An interactive graph structures lab and layout-stability playground for analyzing thesis frameworks and DAG dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
