@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://thesis-graph-playground-357043071925.asia-east1.run.app
+Run on website: https://thesis-graph-playground-357043071925.asia-east1.run.app
 
 ## Run Locally
 
